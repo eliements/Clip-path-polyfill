@@ -7,6 +7,20 @@
 ### DEMO:
 https://stasglebov.github.io/Clip-path-polyfill/
 
+## Installation
+
+### Bower
+
+`$ bower install clip-path-polyfill --save`
+
+and then add `bower_components/clip-path-polyfill/build/clip-path-polyfill.js` to your scripts.
+
+```html
+<script src="bower_components/clip-path-polyfill/build/clip-path-polyfill.js"></script>
+```
+
+I'm assuming here that your `bower` installation folder is called `bower_components`.
+
 # How to use:
 - Generate figure you need using http://bennettfeely.com/clippy/ ( for example )
 - Include/import polyclip.js file
