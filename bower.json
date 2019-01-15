@@ -1,0 +1,24 @@
+{
+	"name": "clip-path-polyfill",
+	"main": "polyclip.js",
+	"description": "Clip path responsive cross-browser polyfill.",
+	"ignore": [
+		"gulpfile.js",
+		"package.json",
+		"src",
+	],
+	"keywords": [
+		"picture",
+		"srcset",
+		"polyfill"
+	],
+	"homepage": "https://stasglebov.github.io/Clip-path-polyfill/",
+	"authors": [
+		"Stas Glebov <https://github.com/stasglebov>"
+	],
+	"devDependencies": {
+		"jquery": "~1.11.1",
+		"jasmine-jquery": "~1.7.0",
+		"zepto": "~1.1.3"
+	}
+}

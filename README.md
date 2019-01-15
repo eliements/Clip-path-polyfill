@@ -13,10 +13,10 @@ https://stasglebov.github.io/Clip-path-polyfill/
 
 `$ bower install clip-path-polyfill --save`
 
-and then add `bower_components/clip-path-polyfill/build/clip-path-polyfill.js` to your scripts.
+and then add `bower_components/clip-path-polyfill/dist/clip-path-polyfill.js` to your scripts.
 
 ```html
-<script src="bower_components/clip-path-polyfill/build/clip-path-polyfill.js"></script>
+<script src="bower_components/clip-path-polyfill/dist/clip-path-polyfill.js"></script>
 ```
 
 I'm assuming here that your `bower` installation folder is called `bower_components`.
