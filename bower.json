@@ -1,24 +1,27 @@
 {
 	"name": "clip-path-polyfill",
+	"description": "Clip path responsive cross-browser polyfill",
 	"main": "dist/clip-path-polyfill.js",
-	"description": "Clip path responsive cross-browser polyfill.",
-	"ignore": [
-		"gulpfile.js",
-		"package.json",
-		"src",
-	],
-	"keywords": [
-		"picture",
-		"srcset",
-		"polyfill"
-	],
-	"homepage": "https://stasglebov.github.io/Clip-path-polyfill/",
-	"authors": [
-		"Stas Glebov <https://github.com/stasglebov>"
-	],
 	"devDependencies": {
 		"jquery": "~1.11.1",
-		"jasmine-jquery": "~1.7.0",
 		"zepto": "~1.1.3"
-	}
+	},
+	"authors": [
+		"Stas Glebov <stasglebov@gmail.com>"
+	],
+	"license": "MIT",
+	"keywords": [
+		"clip-path",
+		"polyfill",
+		"clip",
+		"path"
+	],
+	"homepage": "https://github.com/eliements/Clip-path-polyfill",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
 }
