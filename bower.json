@@ -1,6 +1,6 @@
 {
 	"name": "clip-path-polyfill",
-	"main": "polyclip.js",
+	"main": "dist/clip-path-polyfill.js",
 	"description": "Clip path responsive cross-browser polyfill.",
 	"ignore": [
 		"gulpfile.js",
